@@ -1,4 +1,4 @@
 saintperl6
 ==========
 
-Saint Perl 6 (2014)
+The Saint Perl workshop in Saint Petersburg 2014
